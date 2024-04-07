@@ -53,7 +53,7 @@ TODO: estimate of effort in terms of user story points: XX
 
 ## US#6: Rating/Reviewing Users (optional)
 
-*As a registered user on the platform, I want to be able to rate/review other users with whom I interacted with in a business transaction. Given that I interacted with other users in the past, I should be able to rate them, write new reviews about them, edit/delete past reviews, and also comment on reviews written about me.*
+As a registered user on the platform, I want to be able to rate/review other users with whom I interacted with in a business transaction. Given that I interacted with other users in the past, I should be able to rate them, write new reviews about them, edit/delete past reviews, and also comment on reviews written about me.
 
 ```
 TODO: estimate of effort in terms of user story points: XX
@@ -118,7 +118,7 @@ Commit and push your project using "final submission" as the commit message. You
 
 Your team will be evaluated on how close you managed this project according to the Scrum framework and how well you worked as a member of a Srcum team. Each unit of work (user story) must have a clear estimate of effort in terms of points. Each sprint must have a clear goal statement. The team must record notes of their daily scrum meetings. There should also be notes for the sprint review and retrospective meetings at the end of each sprint. See the [Scrum](/scrum) folder for a sprint documentation template. You should create one file for each sprint, named *sprint#.md* replace the pound with the number of the sprint. 
 
-The project progress should be recorded at the end of each sprint. Also, at the end of the project you should be able to produce burn down report using the provided [template](/scrum/Burndown Chart Template.xlsx). 
+The project progress should be recorded at the end of each sprint. Also, at the end of the project you should be able to produce burn down report using the provided [template]("/scrum/Burndown Chart Template.xlsx"). 
 
 # Rubric 
 

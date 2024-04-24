@@ -108,7 +108,7 @@ requirements.txt
 
 # Testing 
 
-You are required to implement four *white box* testings using Selenium that together simulate the complete cycle of an offer being 'opened', 'accepted', 'shipped', and 'received'. 
+You are required to implement four *black box* testings using Selenium that together simulate the complete cycle of an offer being 'opened', 'accepted', 'shipped', and 'received'. 
 
 # Deployment 
 
